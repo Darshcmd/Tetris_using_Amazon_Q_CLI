@@ -1,4 +1,4 @@
-# 🧱 Tetris - Classic Block Puzzle
+# 🧱 Tetris - Classic Block Puzzle Game using Amazon Q CLI
 
 A recreation of the iconic **Tetris** game, bringing the timeless block-dropping challenge to your desktop. Built with **Python** and **Pygame**, featuring classic mechanics, responsive controls, and engaging sound effects.
 
