@@ -63,3 +63,8 @@ Manipulate falling Tetrominoes to create complete horizontal lines without any g
 -   **H**: View high scores (during game over, toggle high score screen)
 
 ---
+
+## 📝 Links 
+
+-   [Blog Post](https://community.aws/content/2yMvQYQbFOQ0ZeEUNkwH2yWdB3f)
+-   [Linkedin Post](https://www.linkedin.com/posts/darsh-soni-415559321_tetris-python-pygame-activity-7338612701872427008-f0_j?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFFq4BEBHzpWSOpwUz0NeVPAXC38zYgsS98)
